@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/kensi/Downloads/SDL3-devel-3.4.2-mingw/SDL3-3.4.2/x86_64-w64-mingw32/include"
+                "C:/Users/kensi/Downloads/SDL3-devel-3.4.2-mingw/SDL3-3.4.2/x86_64-w64-mingw32/include",
+                "C:/Users/kensi/Downloads/SDL3_image-devel-3.4.2-mingw/SDL3_image-3.4.2/x86_64-w64-mingw32/include/"
             ],
             "defines": [
                 "_DEBUG",
